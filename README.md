@@ -1,4 +1,4 @@
-This Projects is Templates of C++ OpenGL
+This Projects are Templates of C++ OpenGL
 
 Licensed under the MIT License
 
